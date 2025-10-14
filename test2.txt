@@ -1,0 +1,2 @@
+degisiklik yapildi vim ile
+test2.txt cerated
